@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "ESP32-Mishal2";
-const char* password = "123456789";
+const char* ssid     = "######";
+const char* password = "######";
 
 void setup() {
   Serial.begin(115200);
