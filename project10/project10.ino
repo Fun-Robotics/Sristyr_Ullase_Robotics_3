@@ -1,6 +1,6 @@
 #include <WiFi.h>
-const char* ssid     = "ESP32-Mishal";
-const char* password = "123456789";
+const char* ssid     = "########";
+const char* password = "#########";
 const char *ssid_Router = "####"; 
 const char *password_Router = "#####"; 
 
